@@ -1,0 +1,18 @@
+# PyMTL Files
+# Ignore build
+build*/
+
+# Ignore python cache binaries
+__pycache__/
+*.py[cod]
+
+# Ignore pytest cache binaries
+.pytest_cache
+
+# Ignore VCD outputs and directory
+vcd/
+*.vcd
+
+# Ignore cache 
+.cache/
+
